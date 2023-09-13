@@ -438,5 +438,29 @@
     "localName": "繁體中文",
     "langDir": "ltr",
     "dateFormat": "YYYY-MM-DD"
+  },
+  {
+    "code": "ab",
+    "crowdinCode": "ab",
+    "name": "Text 1",
+    "localName": "繁體中文",
+    "langDir": "ltr",
+    "dateFormat": "YYYY-MM-DD"
+  },
+  {
+    "code": "hy",
+    "crowdinCode": "hy",
+    "name": "Text 2",
+    "localName": "繁體中文",
+    "langDir": "ltr",
+    "dateFormat": "YYYY-MM-DD"
+  },
+  {
+    "code": "bi",
+    "crowdinCode": "bi",
+    "name": "Text 3",
+    "localName": "繁體中文",
+    "langDir": "ltr",
+    "dateFormat": "YYYY-MM-DD"
   }
 ]
